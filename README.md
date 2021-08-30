@@ -1,18 +1,14 @@
-- 👋 Hi, I’m faran yunus
-
-I work as a Pega developer in Cognizant. I'm based in New Delhi, India.
+- 👋 Hi, I’m faran yunus.
+    I work as a Software Developer in Cognizant. I'm based in New Delhi, India.
  
 - 👀 I enjoy travelling and football
-- 🌱 I’m currently learning Springboot, Data structures Algorithms in java
+- 🌱 I’m currently learning Springboot, Data Structures Algorithms in Java
 
 
 - 💞️ I’m looking to collaborate on java , dbms projects.
 
-faran.yunus@gmail.com 
+      https://www.linkedin.com/in/faran-yunus-80978461/
 
-https://www.linkedin.com/in/faran-yunus-80978461/
-
-- 📫 How to reach me ^^
 
 
 
