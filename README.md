@@ -7,6 +7,8 @@
 
 - 💞️ I’m looking to collaborate on java , dbms projects.
 
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+
       https://www.linkedin.com/in/faran-yunus-80978461/
 
 
